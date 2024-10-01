@@ -1,0 +1,2 @@
+jax==0.4.33
+matplotlib==3.9.2

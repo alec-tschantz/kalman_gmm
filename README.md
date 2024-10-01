@@ -1,2 +1,5 @@
-# kalman_gmm
-Kalman filters with Gaussian Mixture Model observations
+# kalman-gmm
+
+```bash 
+pip install -r requirements.txt
+```
